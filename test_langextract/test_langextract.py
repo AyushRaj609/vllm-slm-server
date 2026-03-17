@@ -1,5 +1,5 @@
 import os
-os.environ["LANGEXTRACT_API_KEY"] = "AIzaSyBq6S4l6KwMsU00-zIwD1rAvnkMPS6nNnk"
+os.environ["LANGEXTRACT_API_KEY"] = "AIz**************8Nnk"
 
 import langextract as lx
 import textwrap
