@@ -25,7 +25,7 @@ A lightweight inference server for **Small Language Models (SLMs)** powered by [
 | Model | Size | Default |
 |-------|------|---------|
 | `HuggingFaceTB/SmolLM2-1.7B-Instruct` | 1.7B | ✅ |
-| `Qwen/Qwen2.5-3B-Instruct` | 3B | — |
+| `Qwen/Qwen2.5-3B-Instruct` | 3B | ✅ |
 
 ## Quick Start
 
